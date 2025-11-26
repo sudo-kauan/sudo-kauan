@@ -1,29 +1,12 @@
-## Kauan 🐇
-
-**`Desenvolvedor em Construção`**
+# Kauan 🐇:
 
 Me chamo Kauan, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no ISALS. Atualmente, estou cursando Sistemas de Informação na UEMG.
 
-<p align="left">
-    <a href="https://github.com/sudo-kauan?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/sudo-kauan?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/sudo-kauan?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/sudo-kauan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kauanjj_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-coelho-camargo-a978a535b/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/misteerz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kauancoelho230@gmail.com) 
 
-### 🤖 Linguagens e Tecnologias
+# 💻 Tech Stack:
 
 <img 
     align="left" 
@@ -82,25 +65,19 @@ Me chamo Kauan, tenho 18 anos e sou natural de São Paulo. Concluí o ensino mé
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sudo-kauan&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sudo-kauan&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-kauan&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 📊 Estatísticas
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sudo-kauan&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=sudo-kauan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-kauan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sudo-kauan&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=sudo-kauan&icon=0&color=0)](https://visitcount.itsvg.in)
