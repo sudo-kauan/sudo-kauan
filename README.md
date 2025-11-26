@@ -34,12 +34,13 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 </div>
 
-#
+<h3 align="right">GitHub Stats</h3>
+<div align="right">
+    ![](https://github-readme-stats.vercel.app/api?username=sudo-kauan&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+    ![](https://nirzak-streak-stats.vercel.app/?user=sudo-kauan&theme=blue_navy&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-kauan&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sudo-kauan&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sudo-kauan&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-kauan&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sudo-kauan&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
