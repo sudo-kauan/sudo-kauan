@@ -3,8 +3,9 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9ECF&width=435&lines=Welcome+to+my+profile!+%EF%BC%88%EF%BF%A3%EF%B8%B6%EF%BF%A3%EF%BC%89%E2%86%97" alt="Typing SVG" />
     </a>
 </div>
-
-<img align="center" alt="" src="./src/intro1.gif">
+    <div align="center">
+    <img align="center" alt="" src="./src/intro1.gif">
+</div>
 
 #
 
