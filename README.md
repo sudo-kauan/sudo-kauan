@@ -4,6 +4,8 @@
     </a>
 </div>
 
+<img align="center" alt="" src="./src/intro.gif">
+
 #
 
 <p align="center">Estudante de Sistemas de Informação na Universidade do Estado de Minas Gerais.
