@@ -3,8 +3,6 @@
 Me chamo Kauan, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no ISALS. Atualmente, estou cursando Sistemas de Informação na UEMG.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kauanjj_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-coelho-camargo-a978a535b/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/misteerz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kauancoelho230@gmail.com) 
 
 # 💻 Tech Stack:
 
