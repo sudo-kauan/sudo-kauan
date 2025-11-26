@@ -36,7 +36,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 # 
 
-# GitHub Stats
+<h3>GitHub Stats</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=sudo-kauan&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sudo-kauan&theme=blue_navy&hide_border=false)<br/>
