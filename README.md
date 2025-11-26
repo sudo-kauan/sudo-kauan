@@ -36,9 +36,9 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <h3 align="right">GitHub Stats</h3>
 <div align="right">
-    ![](https://github-readme-stats.vercel.app/api?username=sudo-kauan&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-    ![](https://nirzak-streak-stats.vercel.app/?user=sudo-kauan&theme=blue_navy&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-kauan&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sudo-kauan&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sudo-kauan&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-kauan&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 
