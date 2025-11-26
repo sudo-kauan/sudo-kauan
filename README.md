@@ -4,10 +4,10 @@
     </a>
 </div>
 
-# Kauan 🐇:
-
-Me chamo Kauan, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no ISALS. Atualmente, estou cursando Sistemas de Informação na UEMG.
-
+#
+<p align="center">Estudante de Sistemas de Informação na Universidade do Estado de Minas Gerais.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Gosto de aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+#
 
 
 # 💻 Tech Stack:
