@@ -42,7 +42,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="mysql logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/git-original.svg" height="25" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="mysql logo"  />
   <img width="8" />
 
 </div>
