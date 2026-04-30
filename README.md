@@ -1,8 +1,4 @@
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sudo-kauan.sudo-kauan&left_color=black&right_color=black"  />
-</div>
 
-###
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Kauan&fontSize=70&fontColor=f2e9e6&fontAlign=50&fontAlignY=45&rotate=0&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
@@ -26,6 +22,10 @@
 ###
 
 <img align="right" height="200" src="https://imgs.search.brave.com/b1DkgJLA9Jzd5rnwZvx591VLLODlaZnmzDzFn7ZV2rE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzdiLzg3/LzFjLzdiODcxY2Vl/NGZmMzI0YjljYzE3/ZWEwMjhiNDA3NGNl/LmpwZw"  />
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sudo-kauan.sudo-kauan&left_color=black&right_color=black"  />
+</div>
 
 ###
 
@@ -55,6 +55,13 @@
 
 ###
 
+
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sudo-kauan&locale=en&mode=weekly&theme=highcontrast&hide_border=true&border_radius=5&order=16" height="110" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudo-kauan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 <br clear="both">
 
 <div>
@@ -62,13 +69,6 @@
 </div>
 
 ###
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sudo-kauan&locale=en&mode=weekly&theme=highcontrast&hide_border=true&border_radius=5&order=16" height="110" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudo-kauan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
 <hr>
 
 <picture>
