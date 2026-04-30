@@ -12,8 +12,8 @@
 
 <p align="left">
   Estudante de Sistemas de Informação na Universidade do Estado de Minas Gerais.
-  Estou constantemente atualizando &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; meus conhecimentos e buscando novos desafios 
-  na área de tecnologia. Gosto de aprender e aplicar esses conhecimentos &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; para 
+  Estou constantemente atualizando meus conhecimentos e buscando novos desafios 
+  na área de tecnologia. Gosto de aprender e aplicar esses conhecimentos para 
   criar soluções inovadoras.
 </p>
 
