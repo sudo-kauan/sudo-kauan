@@ -68,8 +68,8 @@
   <img src="https://streak-stats.demolab.com?user=sudo-kauan&locale=en&mode=weekly&theme=highcontrast&hide_border=true&border_radius=5&order=16" height="110" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudo-kauan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
 <hr>
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudo-kauan/sudo-kauan/output/pacman-contribution-graph-dark.svg">
